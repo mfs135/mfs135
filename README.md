@@ -29,8 +29,6 @@ Find me around the web 🌍:
 ###
 
 
----
-
 
 
 ## 🚀 **Featured Projects**  
