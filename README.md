@@ -37,7 +37,7 @@ A mobile app built with **React Native** to help users track their workouts, set
 - [View Project](link-to-repo)  
 </details>
 
----
+
 
 ### 2. **E-Commerce Web Application**  
 <details>
@@ -49,7 +49,7 @@ A full-stack e-commerce platform with user authentication, product management, a
 - [View Project](link-to-repo)  
 </details>
 
----
+
 
 ### 3. **AI-Powered Chatbot**  
 <details>
@@ -61,7 +61,7 @@ An intelligent chatbot built using **Python** and **TensorFlow** for natural lan
 - [View Project](link-to-repo)  
 </details>
 
----
+
 
 ### 4. **Data Science Project: Predictive Analytics**  
 <details>
@@ -76,16 +76,6 @@ A machine learning model to predict trends based on historical data.
 
 ###
 
-<br><br>
-
-## 🌍 **Find me around the web :**  
-I’m always open to collaborating on exciting projects or discussing tech. Feel free to reach out:  
-- **LinkedIn**: [Mame SALL](link)  
-- **Email**: mame.sall@example.com  
-- **Portfolio**: [Mame SALL's Portfolio](link)  
-
-
-###
 
 <br><br>
 
