@@ -11,7 +11,7 @@
 ###
 
 
-<h3 align="left"> <img height="30" width="30" src="https://imgproxy.attic.sh/BnCrLn7eKE0MW1OHxZC9aKB-EJ3G0U0sCU6ddP9tvEA/rs:fit:768:768:1:1/t:1:FF00FF:false:false/pngo:false:true:256/aHR0cHM6Ly9hdHRp/Yy5zaC9nenEycXc2/Mjc3NjhoMHp6aWR0/ZnhyM2s0Y3hx.png" /> About Me</h3>
+<h3 align="left"> 👩🏼‍💻 About Me</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 <br>
 
-## <img height="30" width="30" src="ttps://png.pngtree.com/png-vector/20241019/ourlarge/pngtree-rocket-launching-into-a-vibrant-sky-png-image_14114156.png" /> **Featured Projects**  
+## 🚀 **Featured Projects**  
 
 
 ### 1. **Data Science Projects**  
