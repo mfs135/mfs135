@@ -23,15 +23,15 @@
 Find me around the web 🌍:  
 - **LinkedIn**: [Mame SALL](link)  
 
+<br>
 
-<span height="130"></span>
 
 ###
 
 
 ---
 
-<h3 height="1300"></h3>
+
 
 ## 🚀 **Featured Projects**  
 
