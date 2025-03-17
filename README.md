@@ -27,6 +27,52 @@
 
 ## 🚀 **Featured Projects**  
 
+### 1. **Fitness Tracker App**  
+<details>
+<summary>View Details</summary>
+
+A mobile app built with **React Native** to help users track their workouts, set fitness goals, and monitor progress.  
+- **Features**: Workout logging, progress charts, reminders  
+- **Tech Stack**: React Native, Firebase, Redux  
+- [View Project](link-to-repo)  
+</details>
+
+---
+
+### 2. **E-Commerce Web Application**  
+<details>
+<summary>View Details</summary>
+
+A full-stack e-commerce platform with user authentication, product management, and payment integration.  
+- **Features**: User roles, product search, Stripe payment gateway  
+- **Tech Stack**: React, Node.js, MongoDB  
+- [View Project](link-to-repo)  
+</details>
+
+---
+
+### 3. **AI-Powered Chatbot**  
+<details>
+<summary>View Details</summary>
+
+An intelligent chatbot built using **Python** and **TensorFlow** for natural language processing.  
+- **Features**: Context-aware responses, sentiment analysis  
+- **Tech Stack**: Python, TensorFlow, Flask  
+- [View Project](link-to-repo)  
+</details>
+
+---
+
+### 4. **Data Science Project: Predictive Analytics**  
+<details>
+<summary>View Details</summary>
+
+A machine learning model to predict trends based on historical data.  
+- **Features**: Data cleaning, model training, visualization  
+- **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib  
+- [View Project](link-to-repo)  
+</details>
+
 
 ###
 
