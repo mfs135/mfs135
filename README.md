@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mame SALL <img src="https://media.giphy.com/media/your-white-hand-gif-link.gif" width="30px"></h1>
+<h1>Hi, I'm Mame SALL 👋</h1>
 
 ###
 
