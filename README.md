@@ -11,7 +11,7 @@
 ###
 
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">  <img height="30" src="https://blog.joypixels.com/content/images/2019/06/woman_tipping_hand_1024.gif"/> About Me</h3>
 
 ###
 
