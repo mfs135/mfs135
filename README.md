@@ -21,9 +21,9 @@
 Find me around the web 🌍:  
 - **LinkedIn**: [Mame SALL](link)  
 
---
+---
 
-<br>
+
 
 
 ## 🚀 **Featured Projects**  
