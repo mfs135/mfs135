@@ -32,7 +32,7 @@ Find me around the web 🌍:
 
 ---
 
-<h3 height="30"></h3>
+<h3 height="130"></h3>
 
 ## 🚀 **Featured Projects**  
 
