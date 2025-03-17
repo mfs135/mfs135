@@ -11,7 +11,7 @@
 ###
 
 
-<h3 align="left">  <img height="30" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif"/> About Me</h3>
+<h3 align="left">  <img height="30" src="https://camo.githubusercontent.com/6a5d95f90faf63ed6a558facf69c17e208351cac026c853a3c9793b29a99f4c4/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966"/> About Me</h3>
 
 ###
 
