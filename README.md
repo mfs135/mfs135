@@ -22,7 +22,7 @@
 
 <br>
 
-## 🚀 **Featured Projects**  
+## <img height="30" width="30" src="ttps://png.pngtree.com/png-vector/20241019/ourlarge/pngtree-rocket-launching-into-a-vibrant-sky-png-image_14114156.png" /> **Featured Projects**  
 
 
 ### 1. **Data Science Projects**  
