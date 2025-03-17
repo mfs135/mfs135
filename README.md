@@ -36,7 +36,6 @@ Find me around the web 🌍:
 
 ## 🚀 **Featured Projects**  
 
-<br>
 
 ### 1. **Fitness Tracker App**  
 <details>
