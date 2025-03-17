@@ -20,7 +20,7 @@
 
 <br>
 
-## 🌍 **Find me around the web :**  
+### 🌍 **Find me around the web :**  
 I’m always open to collaborating on exciting projects or discussing tech. Feel free to reach out:  
 - **LinkedIn**: [Mame SALL](link)  
 - **Email**: mame.sall@example.com  
