@@ -20,6 +20,23 @@
 
 ###
 
+
+---
+
+## 🚀 **Featured Projects**  
+
+
+###
+
+## 📫 **Find me around the web :**  
+I’m always open to collaborating on exciting projects or discussing tech. Feel free to reach out:  
+- **LinkedIn**: [Mame SALL](link)  
+- **Email**: mame.sall@example.com  
+- **Portfolio**: [Mame SALL's Portfolio](link)  
+
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -43,25 +60,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
-
----
-
-## 🚀 **Featured Projects**  
-
-
-###
-
----
-
-## 📫 **Find me around the web :**  
-I’m always open to collaborating on exciting projects or discussing tech. Feel free to reach out:  
-- **LinkedIn**: [Mame SALL](link)  
-- **Email**: mame.sall@example.com  
-- **Portfolio**: [Mame SALL's Portfolio](link)  
-
 
 ###
 
