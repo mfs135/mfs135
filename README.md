@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mame SALL 👋</h1>
+<h1>Hi, I'm Mame SALL 👋🏻</h1>
 
 ###
 
