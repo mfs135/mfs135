@@ -1,3 +1,8 @@
+<h1>Hi, I'm Mame SALL 👋</h1>
+
+###
+
+
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=6c09b952ybtuk500cdaijuecd3dl680czrlsxki7khrulbf6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
@@ -5,9 +10,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
 
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
