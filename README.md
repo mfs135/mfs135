@@ -29,7 +29,7 @@ You can Find me around the web 🌎 here: <a href="https://twitter.com/yourusern
 
 ### 1. **Data Science Projects**  
 <details>
-<summary>View Details</summary>
+<summary>Data Exploration</summary>
 
 A mobile app built with **React Native** to help users track their workouts, set fitness goals, and monitor progress.  
 - **Features**: Workout logging, progress charts, reminders  
