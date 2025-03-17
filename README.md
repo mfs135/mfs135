@@ -32,6 +32,8 @@ Find me around the web 🌍:
 
 ---
 
+<h3 height="30"></h3>
+
 ## 🚀 **Featured Projects**  
 
 ### 1. **Fitness Tracker App**  
