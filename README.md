@@ -53,10 +53,10 @@ A full-stack e-commerce platform with user authentication, product management, a
 <details>
 <summary>MyFitnessApp</summary>
 
-An intelligent chatbot built using **Python** and **TensorFlow** for natural language processing.  
-- **Features**: Context-aware responses, sentiment analysis  
-- **Tech Stack**: Python, TensorFlow, Flask  
-- [View Project](link-to-repo)  
+MyFitnessApp is a web application designed to help users track their fitness goals. Built with **Laravel** for the backend and **React** for the frontend.  
+- **Features**: manage workouts, and monitor progress.  
+- **Tech Stack**: React, Laravel, Git  
+- [View Project](https://github.com/mfs135/MyFitnessApp)  
 </details>
 
 
