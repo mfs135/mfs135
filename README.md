@@ -1,4 +1,4 @@
-<h1>Hi, I'm <span style="color: pink;">Mame SALL</span> 👋🏻</h1>
+<h1>Hi, I'm <span style="color: pink;">Mame SALL</span> <span style="color:pink;">Fitness Tracker App</span>   👋🏻</h1>
 
 ###
 
