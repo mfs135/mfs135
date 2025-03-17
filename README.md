@@ -18,7 +18,6 @@
 
 <p align="left">Welcome to my GitHub profile! I'm passionate about building innovative solutions that bridge the gap between technology and real-world problems. I specialize in full-stack development, mobile app development, and AI/ML engineering. I’m always learning and exploring new technologies to stay ahead in the ever-evolving tech world.<br>
 
-<br>
 
 Find me around the web 🌍:  
 - **LinkedIn**: [Mame SALL](link)  
@@ -29,7 +28,7 @@ Find me around the web 🌍:
 ###
 
 
-<br>
+
 
 ## 🚀 **Featured Projects**  
 
