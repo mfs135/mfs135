@@ -77,7 +77,7 @@ A machine learning model to predict trends based on historical data.
 ###
 
 
-<br><br>
+<br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
