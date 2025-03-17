@@ -20,7 +20,7 @@
 
 <br>
 
-🌍 Find me around the web:  
+Find me around the web 🌍:  
 - **LinkedIn**: [Mame SALL](link)  
 - **Email**: mame.sall@example.com  
 - **Portfolio**: [Mame SALL's Portfolio](link)  
