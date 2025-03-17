@@ -51,7 +51,7 @@ A full-stack e-commerce platform with user authentication, product management, a
 
 ### 3. **Web Development Projects**  
 <details>
-<summary>View Details</summary>
+<summary>MyFitnessApp</summary>
 
 An intelligent chatbot built using **Python** and **TensorFlow** for natural language processing.  
 - **Features**: Context-aware responses, sentiment analysis  
