@@ -29,7 +29,7 @@ Find me around the web 🌍:
 ## 🚀 **Featured Projects**  
 
 
-### 1. **Fitness Tracker App**  
+### 1. **Data Science Projects**  
 <details>
 <summary>View Details</summary>
 
@@ -41,7 +41,7 @@ A mobile app built with **React Native** to help users track their workouts, set
 
 
 
-### 2. **E-Commerce Web Application**  
+### 2. **Artificial Intelligence Projects**  
 <details>
 <summary>View Details</summary>
 
@@ -53,7 +53,7 @@ A full-stack e-commerce platform with user authentication, product management, a
 
 
 
-### 3. **AI-Powered Chatbot**  
+### 3. **Web Development Projects**  
 <details>
 <summary>View Details</summary>
 
@@ -65,7 +65,7 @@ An intelligent chatbot built using **Python** and **TensorFlow** for natural lan
 
 
 
-### 4. **Data Science Project: Predictive Analytics**  
+### 4. **Mobile App Projects**  
 <details>
 <summary>View Details</summary>
 
