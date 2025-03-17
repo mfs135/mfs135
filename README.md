@@ -28,6 +28,8 @@
 
 ###
 
+<br><br>
+
 ## 🌍 **Find me around the web :**  
 I’m always open to collaborating on exciting projects or discussing tech. Feel free to reach out:  
 - **LinkedIn**: [Mame SALL](link)  
@@ -36,6 +38,8 @@ I’m always open to collaborating on exciting projects or discussing tech. Feel
 
 
 ###
+
+<br><br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
