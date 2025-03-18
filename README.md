@@ -21,7 +21,7 @@
 
  <img align="right" height="200" width="200" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9528x3e8phsv5q4n5mcftewgi0xh99zfdqcqppub0xk&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 
- Find Me Around the Web**
+ **<img height="30" src="[https://github.com/mfs135/mfs135/blob/main/image.png](https://imgproxy.attic.sh/VhCc98ou-LeKAHxLeTuJIS3s2FpR3NCxmmX_Q2DFGq8/rs:fit:768:768:1:1/t:1:FF00FF:false:false/pngo:false:true:256/aHR0cHM6Ly9hdHRp/Yy5zaC9jczBwd24w/MzJjd3Q5Z21xNTkz/ajV2bXhnNzNi.png)"  /> Find Me Around the Web**
 
 - 🐦 **My Twitter**: <a href="https://twitter.com/yourusername">Follow me on Twitter</a> for updates, tips, and random musings!
 - 🔗 **My LinkedIn**: <a href="https://linkedin.com/in/yourusername">Connect with me on LinkedIn</a> for professional insights and networking.
