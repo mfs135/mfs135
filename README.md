@@ -71,7 +71,7 @@ In this Project, five movie reviews were used as dataset to do sentiment analysi
 
 </details>
 
-
+#
 
 ### 2. **Artificial Intelligence Projects**  
 
@@ -86,7 +86,7 @@ A full-stack e-commerce platform with user authentication, product management, a
 - [View Project](link-to-repo)  
 </details>
 
-
+#
 
 ### 3. **Web Development Projects**  
 
@@ -101,7 +101,7 @@ MyFitnessApp is a web application designed to help users track their fitness goa
 - [View Project](https://github.com/mfs135/MyFitnessApp)  
 </details>
 
-
+#
 
 ### 4. **Mobile App Projects**
 
