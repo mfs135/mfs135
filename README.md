@@ -18,10 +18,9 @@
 <p align="left">Welcome to my GitHub profile! I'm passionate about building innovative solutions that bridge the gap between technology and real-world problems. I specialize in full-stack development, mobile app development, and AI/ML engineering. I’m always learning and exploring new technologies to stay ahead in the ever-evolving tech world.
 
 
-
+<h1> You can find me around the web 🌎 here:</h1>
   <img align="right" height="200" width="200" src="https://github.com/mfs135/mfs135/blob/main/WhatsApp%20GIF%202025-03-18%20at%2019.07.34.gif" />
 
-  - You can find me around the web 🌎 here:
   - <a href="https://twitter.com/yourusername">Twitter</a>
   - & <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
 
