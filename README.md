@@ -23,7 +23,7 @@
 </div>
 <div align="right">
 
-  <img height="100" width="100" src="https://github.com/mfs135/mfs135/blob/main/WhatsApp GIF 2025-03-18 at 19.07.34.gif"  />
+  <img height="400" width="300" src="https://github.com/mfs135/mfs135/blob/main/WhatsApp GIF 2025-03-18 at 19.07.34.gif"  />
 </div>
 <br>
 </p>
