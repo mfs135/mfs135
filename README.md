@@ -17,7 +17,14 @@
 
 <p align="left">Welcome to my GitHub profile! I'm passionate about building innovative solutions that bridge the gap between technology and real-world problems. I specialize in full-stack development, mobile app development, and AI/ML engineering. I’m always learning and exploring new technologies to stay ahead in the ever-evolving tech world.
 
-You can Find me around the web 🌎 here: <a href="https://twitter.com/yourusername">Twitter</a> & <a href="https://linkedin.com/in/yourusername">LinkedIn</a><br>
+
+<div align="left">
+  <img src="https://github.com/your-username/your-repo/blob/main/animation.gif" width="100" />
+</div>
+<div align="right">
+  You can find me around the web 🌎 here: <a href="https://twitter.com/yourusername">Twitter</a> & <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+</div>
+<br>
 </p>
 
 ###
