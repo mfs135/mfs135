@@ -20,11 +20,11 @@
 
 <div align="left">
    <h1>You can find me around the web 🌎 here:</h1>
-  <a href="https://twitter.com/yourusername">Twitter</a>
-  <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+  <li><a href="https://twitter.com/yourusername">Twitter</a></li>
+  <li><a href="https://linkedin.com/in/yourusername">LinkedIn</a></li>
 </div>
 <div align="right">
-   <img height="200" width="200" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9528x3e8phsv5q4n5mcftewgi0xh99zfdqcqppub0xk&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
+   <img height="200" width="200" style="display: inline-block;" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9528x3e8phsv5q4n5mcftewgi0xh99zfdqcqppub0xk&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 </div>
 
 </p>
