@@ -46,6 +46,14 @@ A mobile app built with **React Native** to help users track their workouts, set
 - [View Project](link-to-repo)  
 </details>
 
+<summary>Decision Tree Classifier</summary>
+
+A mobile app built with **React Native** to help users track their workouts, set fitness goals, and monitor progress.  
+- **Features**: Workout logging, progress charts, reminders  
+- **Tech Stack**: React Native, Firebase, Redux  
+- [View Project](link-to-repo)  
+</details>
+
 
 
 ### 2. **Artificial Intelligence Projects**  
