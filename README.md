@@ -23,7 +23,7 @@
 </div>
 <div align="right">
 
-  <img src="https://github.com/your-username/your-repo/blob/main/animation.gif" width="100" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpcq8flrYVgtKHQEzHOxDPL9KPnQCO--nh0g&s" width="100" />
 </div>
 <br>
 </p>
