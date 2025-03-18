@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mame SALL  <img height="30" src="https://www.pngkey.com/png/full/134-1349748_waving-hand-sign-m-f-waving-hand-emoji.png"  /> </h1>
+<h1>Hi, I'm Mame SALL 👋🏻 </h1>
 
 ###
 
