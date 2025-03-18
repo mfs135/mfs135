@@ -33,7 +33,7 @@
 
 <br>
 
-##<img height="20" src=" https://imgproxy.attic.sh/ZKXW-q2uyUzUD2l9VHGL3Sl9N5Jg0MuT_o6V-owxABc/rs:fit:768:768:1:1/t:1:FF00FF:false:false/pngo:false:true:256/aHR0cHM6Ly9hdHRp/Yy5zaC9lMDFkZWFp/c2E2cW9jYWhwM2hu/bHJ6NThmNnQ2.png" />  **Featured Projects** 
+## <img height="20" src="https://imgproxy.attic.sh/ZKXW-q2uyUzUD2l9VHGL3Sl9N5Jg0MuT_o6V-owxABc/rs:fit:768:768:1:1/t:1:FF00FF:false:false/pngo:false:true:256/aHR0cHM6Ly9hdHRp/Yy5zaC9lMDFkZWFp/c2E2cW9jYWhwM2hu/bHJ6NThmNnQ2.png" />  **Featured Projects** 
 
 
 ### 1. **Data Science Projects**  
