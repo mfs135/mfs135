@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c36dd73b-72ce-43bf-a095-5e1d58403e3f)<h1>Hi, I'm Mame SALL 👋🏻 </h1>
+<h1>Hi, I'm Mame SALL 👋🏻 </h1>
 
 ###
 
