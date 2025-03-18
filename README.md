@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mame SALL 👋🏻 </h1>
+![image](https://github.com/user-attachments/assets/c36dd73b-72ce-43bf-a095-5e1d58403e3f)<h1>Hi, I'm Mame SALL 👋🏻 </h1>
 
 ###
 
@@ -56,6 +56,16 @@ Main purpose of this is to create understanding of data exploration and the know
 
 Goal is to train decision tree classifier model for predictions with the best features that can make the model accuracy high.
 - **Tech Stack**: pandas, numpy, matplotlib, sklearn
+- [View Project](https://github.com/mfs135/decision-tree-classifier)
+
+</details>
+
+ <details>
+<summary>Sentiment Analysis on IMDB Movie Reviews</summary>
+
+In this Project, five movie reviews were used as dataset to do sentiment analysis. The movies selected for the dataset was chosen on the basis of quiz (Movie name picker)
+
+- **Tech Stack**: pandas, numpy, matplotlib, sklearn, beautifulSoup
 - [View Project](https://github.com/mfs135/decision-tree-classifier)
 
 </details>
