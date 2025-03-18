@@ -37,6 +37,9 @@
 
 
 ### 1. **Data Science Projects**  
+
+<p>Analyzing and interpreting complex data to extract insights and make data-driven decisions.</p>
+
 <details>
 <summary>Data Exploration</summary>
 
@@ -59,6 +62,9 @@ Goal is to train decision tree classifier model for predictions with the best fe
 
 
 ### 2. **Artificial Intelligence Projects**  
+
+<p>Building intelligent systems that can learn, reason, and perform tasks autonomously.</p>
+
 <details>
 <summary>View Details</summary>
 
