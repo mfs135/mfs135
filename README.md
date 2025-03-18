@@ -26,7 +26,7 @@ Sharing updates on LinkedIn 💼
   <a href="https://twitter.com/yourusername">Twitter</a> & <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
 </div>
 <div align="right">
-<img style="margin-top: 100;" height="200" width="200" src="https://github.com/mfs135/mfs135/blob/main/WhatsApp%20GIF%202025-03-18%20at%2019.07.34.gif" />
+<img style="margin-top: -100;" height="200" width="200" src="https://github.com/mfs135/mfs135/blob/main/WhatsApp%20GIF%202025-03-18%20at%2019.07.34.gif" />
 </div>
 <br>
 </p>
