@@ -18,13 +18,17 @@
 <p align="left">Welcome to my GitHub profile! I'm passionate about building innovative solutions that bridge the gap between technology and real-world problems. I specialize in full-stack development, mobile app development, and AI/ML engineering. I’m always learning and exploring new technologies to stay ahead in the ever-evolving tech world.
 
 
-<div align="left">
-   <h1>You can find me around the web 🌎 here:</h1>
-  <li><a href="https://twitter.com/yourusername">Twitter</a></li>
-  <li><a href="https://linkedin.com/in/yourusername">LinkedIn</a></li>
-</div>
-<div align="right">
-   <img height="200" width="200" style="display: inline-block;" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9528x3e8phsv5q4n5mcftewgi0xh99zfdqcqppub0xk&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h1>You can find me around the web 🌎 here:</h1>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="display: inline-block; margin-right: 10px;"><a href="https://twitter.com/yourusername">Twitter</a></li>
+      <li style="display: inline-block;"><a href="https://linkedin.com/in/yourusername">LinkedIn</a></li>
+    </ul>
+  </div>
+  <div>
+    <img height="200" width="200" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9528x3e8phsv5q4n5mcftewgi0xh99zfdqcqppub0xk&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
+  </div>
 </div>
 
 </p>
