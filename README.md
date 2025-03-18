@@ -27,7 +27,7 @@ Sharing updates on LinkedIn 💼
 </div>
 <div align="right">
 
-  <img top="100" height="200" width="200" src="https://github.com/mfs135/mfs135/blob/main/WhatsApp GIF 2025-03-18 at 19.07.34.gif"  />
+  <img margin-top="100" height="200" width="200" src="https://github.com/mfs135/mfs135/blob/main/WhatsApp GIF 2025-03-18 at 19.07.34.gif"  />
 </div>
 <br>
 </p>
