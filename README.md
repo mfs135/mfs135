@@ -19,7 +19,7 @@
 
 
 <h1> You can find me around the web 🌎 here:</h1>
-  <img align="right" height="200" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQecyn0DuGO_bRG6nDlES9pDBKqoPE4ugS13Q&s" />
+  <img align="right" height="200" width="200" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9528x3e8phsv5q4n5mcftewgi0xh99zfdqcqppub0xk&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 
   - <a href="https://twitter.com/yourusername">Twitter</a>
   - & <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
