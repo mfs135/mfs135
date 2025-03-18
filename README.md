@@ -38,7 +38,7 @@
 
 ### 1. **Data Science Projects**  
 
-Analyzing and interpreting complex data to extract insights and make data-driven decisions.
+<p>Analyzing and interpreting complex data to extract insights and make data-driven decisions.</p>
 
 <details>
 <summary>Data Exploration</summary>
@@ -77,6 +77,9 @@ A full-stack e-commerce platform with user authentication, product management, a
 
 
 ### 3. **Web Development Projects**  
+
+<p>Creating interactive and dynamic applications accessible through web browsers for seamless user experiences.</p>
+
 <details>
 <summary>MyFitnessApp</summary>
 
@@ -88,7 +91,10 @@ MyFitnessApp is a web application designed to help users track their fitness goa
 
 
 
-### 4. **Mobile App Projects**  
+### 4. **Mobile App Projects**
+
+<p>Developing applications for smartphones and tablets to provide user-friendly functionality on the go.</p>
+
 <details>
 <summary>View Details</summary>
 
