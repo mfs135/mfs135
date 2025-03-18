@@ -19,10 +19,11 @@
 
 
 <div align="left">
-  <img src="https://github.com/your-username/your-repo/blob/main/animation.gif" width="100" />
+    You can find me around the web 🌎 here: <a href="https://twitter.com/yourusername">Twitter</a> & <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
 </div>
 <div align="right">
-  You can find me around the web 🌎 here: <a href="https://twitter.com/yourusername">Twitter</a> & <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+
+  <img src="https://github.com/your-username/your-repo/blob/main/animation.gif" width="100" />
 </div>
 <br>
 </p>
