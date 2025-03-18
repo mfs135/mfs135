@@ -21,7 +21,7 @@
 <h1> You can find me around the web 🌎 here:</h1>
 
   - My <a href="https://twitter.com/yourusername">Twitter</a>
-  - Follow me on<a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+  - Follow me on <a href="https://linkedin.com/in/yourusername"> LinkedIn </a>
 
 
 </p>
