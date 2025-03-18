@@ -20,7 +20,6 @@
 
 <div> You can find me around the web 🌎 here:</div>
 
-
   - <a href="https://twitter.com/yourusername">Twitter</a>
   - <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
 
