@@ -20,10 +20,11 @@
 
 <div align="left">
    <h1>You can find me around the web 🌎 here:</h1>
-  <a href="https://twitter.com/yourusername">Twitter</a> & <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+  <a href="https://twitter.com/yourusername">Twitter</a>
+  <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
 </div>
 <div align="right">
-   <img height="200" width="200" src="https://github.com/mfs135/mfs135/blob/main/WhatsApp%20GIF%202025-03-18%20at%2019.07.34.gif" />
+   <img height="200" width="200" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9528x3e8phsv5q4n5mcftewgi0xh99zfdqcqppub0xk&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 </div>
 
 </p>
