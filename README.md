@@ -40,20 +40,20 @@
 <details>
 <summary>Data Exploration</summary>
 
-A mobile app built with **React Native** to help users track their workouts, set fitness goals, and monitor progress.  
-- **Features**: Workout logging, progress charts, reminders  
-- **Tech Stack**: React Native, Firebase, Redux  
-- [View Project](link-to-repo)  
+Main purpose of this is to create understanding of data exploration and the knowledge of panda’s library and its basic functions.
+- **Tech Stack**: pandas, numpy, matplotlib, sklearn
+- [View Project](https://github.com/mfs135/data-exploration)
+
 </details>
 
 
 <details>
 <summary>Decision Tree Classifier</summary>
 
-A mobile app built with **React Native** to help users track their workouts, set fitness goals, and monitor progress.  
-- **Features**: Workout logging, progress charts, reminders  
-- **Tech Stack**: React Native, Firebase, Redux  
-- [View Project](link-to-repo)  
+Goal is to train decision tree classifier model for predictions with the best features that can make the model accuracy high.
+- **Tech Stack**: pandas, numpy, matplotlib, sklearn
+- [View Project](https://github.com/mfs135/decision-tree-classifier)
+
 </details>
 
 
