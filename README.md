@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left"> 👩🏼‍💻 About Me</h3>
+<h3 align="left"> <img height="20" src="https://imgproxy.attic.sh/EcoFoqzxHOE1n9tkhV1X3rao_etM2ggIIga83A1oVzk/rs:fit:768:768:1:1/t:1:FF00FF:false:false/pngo:false:true:256/aHR0cHM6Ly9hdHRp/Yy5zaC9ydW5wb2Qv/MmQyMDY4ZGQtMDYx/Yi00MWFlLThhYjYt/NGUzYjkxY2YxOTVm/LnBuZw.png" />  About Me</h3> 
 
 ###
 
