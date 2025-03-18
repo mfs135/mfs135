@@ -20,13 +20,12 @@
 
 <div align="left">
 <h1>You can find me around the web 🌎 here: </h1>
-<p>Learning in public on Twitch or monica.dev 📹 ✍🏾</p>
-<p>Tinkering with interactions on Codepen 🏓</p>
-Sharing updates on LinkedIn 💼
+<span>Learning in public on Twitch or monica.dev 📹 ✍🏾</span>
+<span>Tinkering with interactions on Codepen 🏓</span>
   <a href="https://twitter.com/yourusername">Twitter</a> & <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
 </div>
 <div align="right">
-<img style="margin-top: -100;" height="200" width="200" src="https://github.com/mfs135/mfs135/blob/main/WhatsApp%20GIF%202025-03-18%20at%2019.07.34.gif" />
+<img height="200" width="200" src="https://github.com/mfs135/mfs135/blob/main/WhatsApp%20GIF%202025-03-18%20at%2019.07.34.gif" />
 </div>
 <br>
 </p>
