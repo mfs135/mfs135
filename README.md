@@ -38,7 +38,8 @@
 
 ### 1. **Data Science Projects**  
 
-<p>Analyzing and interpreting complex data to extract insights and make data-driven decisions.</p>
+<p style="font-size: small; color: black;">This is small black text.</p>
+
 
 <details>
 <summary>Data Exploration</summary>
