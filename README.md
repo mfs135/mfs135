@@ -46,6 +46,8 @@ A mobile app built with **React Native** to help users track their workouts, set
 - [View Project](link-to-repo)  
 </details>
 
+
+<details>
 <summary>Decision Tree Classifier</summary>
 
 A mobile app built with **React Native** to help users track their workouts, set fitness goals, and monitor progress.  
