@@ -88,7 +88,7 @@ A machine learning model to predict trends based on historical data.
 
 <br>
 
-<h3 align="left"><img height="20" src="https://imgproxy.attic.sh/ZTUaOOpg_zeUgw4O0Wjh-sT15bvevyPTktr2ceT6btU/rs:fit:768:768:1:1/t:1:FF00FF:false:false/pngo:false:true:256/aHR0cHM6Ly9hdHRp/Yy5zaC9weWhkaDFq/NHowcXNhcHpyeHEy/ZzVmdWFweDBh.png"/>  Language and tools</h3> 
+<h3 align="left"> <img height="20" src="https://imgproxy.attic.sh/ZTUaOOpg_zeUgw4O0Wjh-sT15bvevyPTktr2ceT6btU/rs:fit:768:768:1:1/t:1:FF00FF:false:false/pngo:false:true:256/aHR0cHM6Ly9hdHRp/Yy5zaC9weWhkaDFq/NHowcXNhcHpyeHEy/ZzVmdWFweDBh.png"/>  Language and tools</h3> 
 ###
 
 <div align="left">
