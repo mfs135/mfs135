@@ -64,7 +64,7 @@ Goal is to train decision tree classifier model for predictions with the best fe
 
 ### 2. **Artificial Intelligence Projects**  
 
-<p>Building intelligent systems that can learn, reason, and perform tasks autonomously.</p>
+###### <p>Building intelligent systems that can learn, reason, and perform tasks autonomously.</p>
 
 <details>
 <summary>View Details</summary>
@@ -79,7 +79,7 @@ A full-stack e-commerce platform with user authentication, product management, a
 
 ### 3. **Web Development Projects**  
 
-<p>Creating interactive and dynamic applications accessible through web browsers for seamless user experiences.</p>
+###### <p>Creating interactive and dynamic applications accessible through web browsers for seamless user experiences.</p>
 
 <details>
 <summary>MyFitnessApp</summary>
@@ -94,7 +94,7 @@ MyFitnessApp is a web application designed to help users track their fitness goa
 
 ### 4. **Mobile App Projects**
 
-<p>Developing applications for smartphones and tablets to provide user-friendly functionality on the go.</p>
+###### <p>Developing applications for smartphones and tablets to provide user-friendly functionality on the go.</p>
 
 <details>
 <summary>View Details</summary>
