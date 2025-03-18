@@ -18,20 +18,14 @@
 <p align="left">Welcome to my GitHub profile! I'm passionate about building innovative solutions that bridge the gap between technology and real-world problems. I specialize in full-stack development, mobile app development, and AI/ML engineering. I’m always learning and exploring new technologies to stay ahead in the ever-evolving tech world.
 
 
-<table>
-  <tr>
-    <td>
-      <img height="150" width="150" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9528x3e8phsv5q4n5mcftewgi0xh99zfdqcqppub0xk&ep=v1_stickers_search&rid=giphy.gif&ct=s">
-    </td>
-    <td>
-      <h1>You can find me around the web 🌎 here:</h1>
-      <ul>
-        <li><a href="https://twitter.com/yourusername">Twitter</a></li>
-        <li><a href="https://linkedin.com/in/yourusername">LinkedIn</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <img style="margin-top: 100px;" height="200" width="200" src="https://github.com/mfs135/mfs135/blob/main/WhatsApp%20GIF%202025-03-18%20at%2019.07.34.gif" />
+</div>
+
+  - You can find me around the web 🌎 here:
+  - <a href="https://twitter.com/yourusername">Twitter</a>
+  - & <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+
 
 </p>
 
