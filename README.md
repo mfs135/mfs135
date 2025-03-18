@@ -25,6 +25,7 @@
 
 
 - 🔗 **My LinkedIn**: <a href="https://linkedin.com/in/yourusername">Connect with me on LinkedIn</a> for professional insights and networking.
+- 🐦 **My Twitter**: <a href="https://twitter.com/yourusername">Follow me on Twitter</a> for updates, tips, and random musings!
 
 
 </p>
