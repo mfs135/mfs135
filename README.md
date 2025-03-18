@@ -10,14 +10,13 @@
 
 ###
 
-
 <h3 align="left"> 👩🏼‍💻 About Me</h3>
 
- <img top="100" align="right" height="200" width="200" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9528x3e8phsv5q4n5mcftewgi0xh99zfdqcqppub0xk&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 ###
 
 <p align="left">Welcome to my GitHub profile! I'm passionate about building innovative solutions that bridge the gap between technology and real-world problems. I specialize in full-stack development, mobile app development, and AI/ML engineering. I’m always learning and exploring new technologies to stay ahead in the ever-evolving tech world.
 
+ <img top="100" align="right" height="200" width="200" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9528x3e8phsv5q4n5mcftewgi0xh99zfdqcqppub0xk&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 
 <h2> You can find me around the web 🌎 here:</h2>
 
