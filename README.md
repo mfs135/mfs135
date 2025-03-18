@@ -20,10 +20,8 @@
 
 <div align="left">
 <h1>You can find me around the web 🌎 here: </h1>
-  ###
-<span>Learning in public on Twitch or monica.dev 📹 ✍🏾</span>
-  ###
-<span>Tinkering with interactions on Codepen 🏓</span>
+<div>Learning in public on Twitch or monica.dev 📹 ✍🏾</div>
+<div>Tinkering with interactions on Codepen 🏓</div>
   <a href="https://twitter.com/yourusername">Twitter</a> & <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
 </div>
 <div align="right">
