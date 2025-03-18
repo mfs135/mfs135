@@ -25,7 +25,7 @@
   <a href="https://twitter.com/yourusername">Twitter</a> & <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
 </div>
 <div align="right">
-<img height="200" width="200" src="https://www.brainerhub.com/wp-content/uploads/2023/08/back-end-development.png" />
+<img height="200" width="200" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9528x3e8phsv5q4n5mcftewgi0xh99zfdqcqppub0xk&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 </div>
 
 </p>
