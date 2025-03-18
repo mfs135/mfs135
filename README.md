@@ -38,7 +38,7 @@
 
 ### 1. **Data Science Projects**  
 
-<p style="font-size: small; color: black;">This is small black text.</p>
+# Analyzing and interpreting complex data to extract insights and make data-driven decisions.
 
 
 <details>
