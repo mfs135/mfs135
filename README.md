@@ -81,6 +81,16 @@ we implemented the Apriori Algorithm to perform Market Basket Analysis. The goal
 
 </details>
 
+ <details>
+<summary>K-Means-clustering</summary>
+
+The aim of this Project is to perform clustering using the K-Means Algorithm and visualize the results on a map. The dataset used for this workshop contains COVID-19 statistics. The objective is to determine whether the K-Means algorithm is a suitable choice for this task by comparing the accuracy of the results with real-world news reports.
+
+- **Tech Stack**: pandas, numpy, matplotlib, sklearn, IPython.display.
+- [View Project](https://github.com/mfs135/decision-tree-classifier)
+
+</details>
+
 
 
 
