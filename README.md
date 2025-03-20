@@ -171,7 +171,7 @@ A machine learning model to predict trends based on historical data.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="40" alt="docker logo"  />
 </div>
