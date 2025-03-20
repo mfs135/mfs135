@@ -101,12 +101,11 @@ The aim of this Project is to perform clustering using the K-Means Algorithm and
 ###### <p>Building intelligent systems that can learn, reason, and perform tasks autonomously.</p>
 
 <details>
-<summary>View Details</summary>
+<summary>classification</summary>
 
-A full-stack e-commerce platform with user authentication, product management, and payment integration.  
-- **Features**: User roles, product search, Stripe payment gateway  
-- **Tech Stack**: React, Node.js, MongoDB  
-- [View Project](link-to-repo)  
+This repository contains the implementation of two classification models to predict a class for a new input.
+- **Tech Stack**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- [View Project](https://github.com/mfs135/classification)  
 </details>
 
 #
