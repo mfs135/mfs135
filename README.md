@@ -93,7 +93,7 @@ This repository contains the implementation of two regression models to predict 
 
 #
 
-### 1. **Data Science Projects**  
+### 4. **Data Science Projects**  
 
 ###### Analyzing and interpreting complex data to extract insights and make data-driven decisions.
 
@@ -148,7 +148,7 @@ The aim of this Project is to perform clustering using the K-Means Algorithm and
 </details>
 
 
-###
+#
 
 
 <br>
