@@ -71,6 +71,19 @@ In this Project, five movie reviews were used as dataset to do sentiment analysi
 
 </details>
 
+ <details>
+<summary>Association Rule Mining for Market Basket Analysis</summary>
+
+we implemented the Apriori Algorithm to perform Market Basket Analysis. The goal was to discover associations between items in a dataset of transactions.
+
+- **Tech Stack**: pandas, numpy, matplotlib, sklearn
+- [View Project](https://github.com/mfs135/decision-tree-classifier)
+
+</details>
+
+
+
+
 #
 
 ### 2. **Artificial Intelligence Projects**  
