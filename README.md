@@ -142,7 +142,7 @@ MyFitnessApp is a web application designed to help users track their fitness goa
 
 A machine learning model to predict trends based on historical data.  
 - **Features**: Data cleaning, model training, visualization  
-- **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib  
+- **Tech Stack**: Flutter,  
 - [View Project](https://github.com/mfs135/my-blog-app)  
 </details>
 
