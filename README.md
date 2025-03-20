@@ -157,7 +157,7 @@ The aim of this Project is to perform clustering using the K-Means Algorithm and
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/color/512/numpy.png" height="40" alt="numpy logo"  />
