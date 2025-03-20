@@ -67,7 +67,7 @@ Goal is to train decision tree classifier model for predictions with the best fe
 In this Project, five movie reviews were used as dataset to do sentiment analysis. The movies selected for the dataset was chosen on the basis of quiz (Movie name picker)
 
 - **Tech Stack**: pandas, numpy, matplotlib, sklearn, beautifulSoup
-- [View Project](https://github.com/mfs135/decision-tree-classifier)
+- [View Project](https://github.com/mfs135/Sentiment-analysis)
 
 </details>
 
@@ -77,7 +77,7 @@ In this Project, five movie reviews were used as dataset to do sentiment analysi
 we implemented the Apriori Algorithm to perform Market Basket Analysis. The goal was to discover associations between items in a dataset of transactions.
 
 - **Tech Stack**: pandas, numpy, matplotlib, sklearn
-- [View Project](https://github.com/mfs135/decision-tree-classifier)
+- [View Project](https://github.com/mfs135/Association-Rule-Mining)
 
 </details>
 
@@ -87,7 +87,7 @@ we implemented the Apriori Algorithm to perform Market Basket Analysis. The goal
 The aim of this Project is to perform clustering using the K-Means Algorithm and visualize the results on a map. The dataset used for this workshop contains COVID-19 statistics. The objective is to determine whether the K-Means algorithm is a suitable choice for this task by comparing the accuracy of the results with real-world news reports.
 
 - **Tech Stack**: pandas, numpy, matplotlib, sklearn, IPython.display.
-- [View Project](https://github.com/mfs135/decision-tree-classifier)
+- [View Project](https://github.com/mfs135/K-Means-clustering)
 
 </details>
 
@@ -143,7 +143,7 @@ MyFitnessApp is a web application designed to help users track their fitness goa
 A machine learning model to predict trends based on historical data.  
 - **Features**: Data cleaning, model training, visualization  
 - **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib  
-- [View Project](link-to-repo)  
+- [View Project](https://github.com/mfs135/my-blog-app)  
 </details>
 
 
