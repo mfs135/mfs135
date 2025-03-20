@@ -24,7 +24,7 @@
  **<img height="20" src="https://imgproxy.attic.sh/VhCc98ou-LeKAHxLeTuJIS3s2FpR3NCxmmX_Q2DFGq8/rs:fit:768:768:1:1/t:1:FF00FF:false:false/pngo:false:true:256/aHR0cHM6Ly9hdHRp/Yy5zaC9jczBwd24w/MzJjd3Q5Z21xNTkz/ajV2bXhnNzNi.png" /> Find Me Around the Web**
 
 
-- 🔗 **My LinkedIn**:
+### 🔗 **My LinkedIn**:
 -  <a href="https://linkedin.com/in/yourusername">Connect with me on LinkedIn</a> for professional insights and networking.
 
 
