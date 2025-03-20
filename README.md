@@ -38,6 +38,61 @@
 ## <img height="20" src="https://imgproxy.attic.sh/ZKXW-q2uyUzUD2l9VHGL3Sl9N5Jg0MuT_o6V-owxABc/rs:fit:768:768:1:1/t:1:FF00FF:false:false/pngo:false:true:256/aHR0cHM6Ly9hdHRp/Yy5zaC9lMDFkZWFp/c2E2cW9jYWhwM2hu/bHJ6NThmNnQ2.png" />  **Featured Projects** 
 
 
+
+
+### 1. **Web Development Projects**  
+
+###### <p>Creating interactive and dynamic applications accessible through web browsers for seamless user experiences.</p>
+
+<details>
+<summary>MyFitnessApp</summary>
+
+MyFitnessApp is a web application designed to help users track their fitness goals. Built with **Laravel** for the backend and **React** for the frontend.  
+- **Features**: manage workouts, and monitor progress.  
+- **Tech Stack**: React, Laravel, Git  
+- [View Project](https://github.com/mfs135/MyFitnessApp)  
+</details>
+
+#
+
+### 2. **Mobile App Projects**
+
+###### <p>Developing applications for smartphones and tablets to provide user-friendly functionality on the go.</p>
+
+<details>
+<summary>My Blog App</summary>
+
+A machine learning model to predict trends based on historical data.  
+- **Features**: Data cleaning, model training, visualization  
+- **Tech Stack**: Flutter  
+- [View Project](https://github.com/mfs135/my-blog-app)  
+</details>
+
+
+#
+
+### 3. **Artificial Intelligence Projects**  
+
+###### <p>Building intelligent systems that can learn, reason, and perform tasks autonomously.</p>
+
+<details>
+<summary>classification</summary>
+
+This repository contains the implementation of two classification models to predict a class for a new input.
+- **Tech Stack**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- [View Project](https://github.com/mfs135/classification)  
+</details>
+
+<details>
+<summary>regression</summary>
+
+This repository contains the implementation of two regression models to predict a continuous target variable based on input features.
+- **Tech Stack**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- [View Project](https://github.com/mfs135/regression)  
+</details>
+
+#
+
 ### 1. **Data Science Projects**  
 
 ###### Analyzing and interpreting complex data to extract insights and make data-driven decisions.
@@ -90,61 +145,6 @@ The aim of this Project is to perform clustering using the K-Means Algorithm and
 - **Tech Stack**: pandas, numpy, matplotlib, sklearn, IPython.display.
 - [View Project](https://github.com/mfs135/K-Means-clustering)
 
-</details>
-
-
-
-
-#
-
-### 2. **Artificial Intelligence Projects**  
-
-###### <p>Building intelligent systems that can learn, reason, and perform tasks autonomously.</p>
-
-<details>
-<summary>classification</summary>
-
-This repository contains the implementation of two classification models to predict a class for a new input.
-- **Tech Stack**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- [View Project](https://github.com/mfs135/classification)  
-</details>
-
-<details>
-<summary>regression</summary>
-
-This repository contains the implementation of two regression models to predict a continuous target variable based on input features.
-- **Tech Stack**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- [View Project](https://github.com/mfs135/regression)  
-</details>
-
-#
-
-### 3. **Web Development Projects**  
-
-###### <p>Creating interactive and dynamic applications accessible through web browsers for seamless user experiences.</p>
-
-<details>
-<summary>MyFitnessApp</summary>
-
-MyFitnessApp is a web application designed to help users track their fitness goals. Built with **Laravel** for the backend and **React** for the frontend.  
-- **Features**: manage workouts, and monitor progress.  
-- **Tech Stack**: React, Laravel, Git  
-- [View Project](https://github.com/mfs135/MyFitnessApp)  
-</details>
-
-#
-
-### 4. **Mobile App Projects**
-
-###### <p>Developing applications for smartphones and tablets to provide user-friendly functionality on the go.</p>
-
-<details>
-<summary>My Blog App</summary>
-
-A machine learning model to predict trends based on historical data.  
-- **Features**: Data cleaning, model training, visualization  
-- **Tech Stack**: Flutter  
-- [View Project](https://github.com/mfs135/my-blog-app)  
 </details>
 
 
