@@ -138,7 +138,7 @@ MyFitnessApp is a web application designed to help users track their fitness goa
 ###### <p>Developing applications for smartphones and tablets to provide user-friendly functionality on the go.</p>
 
 <details>
-<summary>View Details</summary>
+<summary>My Blog App</summary>
 
 A machine learning model to predict trends based on historical data.  
 - **Features**: Data cleaning, model training, visualization  
