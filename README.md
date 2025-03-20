@@ -170,8 +170,6 @@ The aim of this Project is to perform clustering using the K-Means Algorithm and
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" height="40" alt="pandas logo"  />
-  <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="40" alt="docker logo"  />
