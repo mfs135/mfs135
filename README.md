@@ -169,7 +169,7 @@ A machine learning model to predict trends based on historical data.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" height="40" alt="laravel logo"  />
   <img width="12" />
