@@ -108,6 +108,14 @@ This repository contains the implementation of two classification models to pred
 - [View Project](https://github.com/mfs135/classification)  
 </details>
 
+<details>
+<summary>regression</summary>
+
+This repository contains the implementation of two regression models to predict a continuous target variable based on input features.
+- **Tech Stack**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- [View Project](https://github.com/mfs135/regression)  
+</details>
+
 #
 
 ### 3. **Web Development Projects**  
