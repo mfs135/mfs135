@@ -151,8 +151,6 @@ The aim of this Project is to perform clustering using the K-Means Algorithm and
 #
 
 
-<br>
-
 <h3 align="left"> <img height="20" src="https://imgproxy.attic.sh/ZTUaOOpg_zeUgw4O0Wjh-sT15bvevyPTktr2ceT6btU/rs:fit:768:768:1:1/t:1:FF00FF:false:false/pngo:false:true:256/aHR0cHM6Ly9hdHRp/Yy5zaC9weWhkaDFq/NHowcXNhcHpyeHEy/ZzVmdWFweDBh.png"/>  Language and tools</h3> 
 
 ###
