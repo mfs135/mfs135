@@ -157,9 +157,9 @@ A machine learning model to predict trends based on historical data.
 ###
 
 <div align="left">
-  <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" height="40" alt="go logo"  />
+  <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://img.icons8.com/color/512/numpy.png" height="40" alt="numpy"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
