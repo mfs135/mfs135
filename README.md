@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img height="150" width="950" src="https://github.com/mfs135/mfs135/blob/main/image.png"  />
+  <img height="180" width="950" src="https://github.com/mfs135/mfs135/blob/main/image.png"  />
 </div>
 
 
