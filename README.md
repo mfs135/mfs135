@@ -76,17 +76,19 @@ A machine learning model to predict trends based on historical data.
 ###### <p>Building intelligent systems that can learn, reason, and perform tasks autonomously.</p>
 
 <details>
-<summary>classification</summary>
+<summary>White Wine Quality Prediction</summary>
 
-This repository contains the implementation of two classification models to predict a class for a new input.
+This repository contains the implementation of two classification models to predict a class for a new input. Linear Regression vs. Support Vector Regression
+
 - **Tech Stack**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - [View Project](https://github.com/mfs135/classification)  
 </details>
 
 <details>
-<summary>regression</summary>
+<summary>Heart Disease Prediction</summary>
 
-This repository contains the implementation of two regression models to predict a continuous target variable based on input features.
+This repository contains the implementation of two regression models to predict a continuous target variable based on input features. A Comparative Study of Logistic Regression and Random Forest.
+
 - **Tech Stack**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - [View Project](https://github.com/mfs135/regression)  
 </details>
