@@ -25,7 +25,7 @@
 
 
 ##### 🔗 **My LinkedIn**:
--  <a href="https://linkedin.com/in/yourusername">Connect with me on LinkedIn</a> for professional insights and networking.
+-  <a href="https://www.linkedin.com/in/mamefasse/">Connect with me on LinkedIn</a> for professional insights and networking.
 
 
 
